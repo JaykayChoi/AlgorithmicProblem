@@ -19,5 +19,805 @@
     <Filter Include="Source Files\Online Judge">
       <UniqueIdentifier>{ddb78d9d-44c0-4cb9-821b-190d0fa8ef95}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Books\Cracking coading interview">
+      <UniqueIdentifier>{fbb5c6d5-d0dc-4d74-95d5-1e71f53b5da6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies">
+      <UniqueIdentifier>{6a892d32-d1f8-4e5f-978d-5c7ec2f0120e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2">
+      <UniqueIdentifier>{80b56a3f-4e8d-452a-9083-1c8407da9be7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1">
+      <UniqueIdentifier>{0c733780-6a47-45b8-b105-b6b1dd064c38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\4">
+      <UniqueIdentifier>{7feb5f6e-ce85-4393-8d4c-198324cbfd52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\5">
+      <UniqueIdentifier>{07e272ff-7d9e-48e7-af3a-14b5007956f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\6_bruteForce">
+      <UniqueIdentifier>{4526a8bb-6563-4293-a842-d6ed7720799e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\7_divide_and_conquer">
+      <UniqueIdentifier>{dafa6738-97a9-4f38-a80e-c717a5b21666}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\8_dynamicProgramming">
+      <UniqueIdentifier>{87ee5071-d6c7-46c2-a829-d0be09508ffc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\9">
+      <UniqueIdentifier>{9614376d-cc87-41e4-957e-779cd309e605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\10_greedy">
+      <UniqueIdentifier>{0e4c4d80-035e-4dac-be10-35d6b090ab55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\11_CombinatorialOptimization">
+      <UniqueIdentifier>{338c2c89-eff6-4866-85bb-f368d7f87e66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\12">
+      <UniqueIdentifier>{fc75b1a8-82ff-4601-b405-ded77e377ed1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\13">
+      <UniqueIdentifier>{c2abd6a3-a427-42a3-9551-43b657f6f528}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\14">
+      <UniqueIdentifier>{c7a91bbc-74dc-4099-aebf-944fccf5e6c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies1\15">
+      <UniqueIdentifier>{89675279-180a-41b5-9638-745cc9b10ad8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2\16">
+      <UniqueIdentifier>{a5e03543-e683-428e-bc81-5b15ed8d75a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2\17">
+      <UniqueIdentifier>{7dfb1624-ff69-4e3c-97d9-de5b88dcbb58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2\18">
+      <UniqueIdentifier>{e4d087f5-3a07-40fb-bf30-2ae2cedc3e04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2\19">
+      <UniqueIdentifier>{2c3587e1-be85-4294-baa4-5f34ad387f9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2\20">
+      <UniqueIdentifier>{254ff15e-2437-4e52-8fa0-a3d34f889018}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2\21">
+      <UniqueIdentifier>{37a0d17b-7704-459b-9793-a40b91ad45f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2\22">
+      <UniqueIdentifier>{4fddc1b1-7fc7-4ebe-9508-dd52f47a81e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2\23">
+      <UniqueIdentifier>{1fdc3a3b-3112-47bc-b4b1-684b8a196be3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2\24">
+      <UniqueIdentifier>{74c03b75-9b08-427a-8acc-bfd361f6f447}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Books\Strategies\Strategies2\32">
+      <UniqueIdentifier>{6705a22e-bfde-4379-8e1f-46aec4e7b506}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Online Judge\Baekjoon">
+      <UniqueIdentifier>{cf24add0-dca2-42e6-a7bf-4e8fc8e3962b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Online Judge\Codility">
+      <UniqueIdentifier>{b9b81521-ec98-4cc9-95dc-85654694bd09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Online Judge\etc">
+      <UniqueIdentifier>{da23f12b-1413-4f40-ace7-22c1143056f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Online Judge\ProjectEuler">
+      <UniqueIdentifier>{474ba32e-0d39-4f20-8121-d91d2e5cfd50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Online Judge\USACO">
+      <UniqueIdentifier>{c0b0c06a-4e41-4833-9614-2eb73669b149}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Online Judge\UVa">
+      <UniqueIdentifier>{4a0dbbf8-f167-4d94-8823-d11a7d2958ec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Books\Cracking coading interview\1_1_isUniqueChars.cpp">
+      <Filter>Source Files\Books\Cracking coading interview</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Cracking coading interview\1_2_reverseString.cpp">
+      <Filter>Source Files\Books\Cracking coading interview</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Cracking coading interview\1_3_isStringPermutation_A.cpp">
+      <Filter>Source Files\Books\Cracking coading interview</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Cracking coading interview\1_3_isStringPermutation_B.cpp">
+      <Filter>Source Files\Books\Cracking coading interview</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Cracking coading interview\1_4_replaceSpaces.cpp">
+      <Filter>Source Files\Books\Cracking coading interview</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Cracking coading interview\1_5_stringCountCompression.cpp">
+      <Filter>Source Files\Books\Cracking coading interview</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Cracking coading interview\1_6_rotateMatrix.cpp">
+      <Filter>Source Files\Books\Cracking coading interview</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Cracking coading interview\10_quickSort.cpp">
+      <Filter>Source Files\Books\Cracking coading interview</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\4\CalcMaxSumOfArray_4_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\4</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\4\LinearTimeAlgorithm_Calc_MovingAverage_4_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\4</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\4\Majority_4_1.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\4</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\5\Search_5_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\5</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\6_bruteForce\BoardCover_6_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\6_bruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\6_bruteForce\Boggle_6_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\6_bruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\6_bruteForce\ClockSync_6_8.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\6_bruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\6_bruteForce\Packing_9_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\6_bruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\6_bruteForce\Picnic_6_3.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\6_bruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\6_bruteForce\RecursiveFunction_6_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\6_bruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\6_bruteForce\TravelingSalesMan_6_7.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\6_bruteForce</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\7_divide_and_conquer\DivideConquer_fastSum_7_1.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\7_divide_and_conquer</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\7_divide_and_conquer\DivideConquer_multiply_7_1.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\7_divide_and_conquer</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\7_divide_and_conquer\FanMeeting_7_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\7_divide_and_conquer</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\7_divide_and_conquer\Fence_7_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\7_divide_and_conquer</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\7_divide_and_conquer\Quadtree_7_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\7_divide_and_conquer</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\Asymmetric_8_13.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\BinomialCoefficient_8_1.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\JLIS_8_5.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\LIS_8_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\Numb3rs_dunibal_8_17.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\Poly_8_14.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\Quantization_8_9.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\SnailClimb_8_11.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\Tiling2_8_11.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\TrianglePath_8_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\8_dynamicProgramming\WildCard_8_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\8_dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\Fib_9_21.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\Genius_9_24.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\KLIS_9_8.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\LIS_9_1.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\Morse_9_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\NumberBlock_9_19.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\NumberGame_9_17.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\OCR_9_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\Restore_9_14.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\Sushi_9_22.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\Tictactoe_9_16.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\TravelingSalesMan_9_11.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\TrianglePath_9_21.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\9\Zimbabwe_9_12.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\9</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\10_greedy\LunchBox_10_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\10_greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\10_greedy\MatchOrder_10_1.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\10_greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\10_greedy\Minastirith_10_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\10_greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\10_greedy\StrJoin_10_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\10_greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\11_CombinatorialOptimization\Allergy_11_5.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\11_CombinatorialOptimization</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\11_CombinatorialOptimization\BoardCover2_11_3.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\11_CombinatorialOptimization</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\11_CombinatorialOptimization\Kakuro_11_7.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\11_CombinatorialOptimization</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\11_CombinatorialOptimization\TSP_11_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\11_CombinatorialOptimization</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\12\Arctic_12_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\12</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\12\CanadaTrip_12_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\12</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\12\Withdrawal_12_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\12</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\13\Duathlon_13_5.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\13</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\13\Fossil_13_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\13</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\13\Loan_13_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\13</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\13\PolynomialEquation_13_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\13</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\13\Ratio_13_3.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\13</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\14\Euclidean_14_5.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\14</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\14\Pass486_14_3.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\14</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\14\Potion_14_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\14</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\14\PrimeFactorization_14_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\14</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\14\Primes_14_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\14</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\15\ConvPolyDia_15_11.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\15</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\15\Geometry_15_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\15</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\15\Nerds_15_9.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\15</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\15\Pinball_15_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\15</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\15\RectUnion_15_11.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\15</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies1\15\Treasure_15_7.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies1\15</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\16\BitMask_16_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\16</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\16\BitMaskEratosthenes_16_3.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\16</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\16\Graduation_16_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\16</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\16\Maxindependent_16_3.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\16</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\17\Christmas_17_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\17</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\17\PartialSum_17_1.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\17</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\18\Josephus_18_5.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\18</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\19\Brackets2_19_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\19</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\19\Ites_19_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\19</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\20\Habit_20_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\20</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\20\JaehaSafe_20_3.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\20</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\20\KMP_20_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\20</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\20\Naming_20_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\20</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\20\Palindromize_20_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\20</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\20\SubstringCount_20_5.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\20</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\20\SuffixArray_20_5.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\20</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\21\Fortress_21_5.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\21</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\21\Traversal_21_3.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\21</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\21\Tree_21_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\21</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\22\Insertion_22_7.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\22</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\22\Nerd2_22_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\22</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\22\Treap_22_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\22</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\23\Heap_23_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\23</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\23\RunningMedian_23_3.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\23</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\24\FamilyTree_24_4.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\24</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\24\FenwickTree_24_6.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\24</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\24\Mordor_24_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\24</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\24\RMQ_24_1.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\24</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\32\bishops_32_9.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\32</Filter>
+    </ClCompile>
+    <ClCompile Include="Books\Strategies\Strategies2\32\networkFlow_32_2.cpp">
+      <Filter>Source Files\Books\Strategies\Strategies2\32</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1002_turret.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1003_fibonacci_function.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1004_little_prince.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1005_ACM_Craft.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1006_attacker.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1007_Vector_Matching.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1008_A_B.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1009_distributed_processing.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1010_bridge.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1011_Alpha_Centauri.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1012_organic_cabbage.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1013_Contact.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1014_cheating_networkFlow__bipartite_matching.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1015_sequence_sorting.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1016_SquareNNNumber.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1017_prime_pairing__bipartite_matching.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1018_repain_chessboard.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1019_book_page.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1020_digital_counter.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1021_rotating_queue.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1022_print_spiral.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1023_brackets_sequences_1.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1023_brackets_sequences_2.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1024_sum_sequence.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1025_find_square.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1026_treasure.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1027_high_rise_building__ccw.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1028_diamond_mine.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1029_exchange_picture.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1030_fractal_plane.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1032_cmd.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1033_cocktail.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1034_lamp.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1037_factors.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1038_reduced_Number.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1051_number_square.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1052_bottle.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1072_game.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1629_multiply.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1654_cut_lan.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1920_find_number.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2110_install_router.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2193_Pinary_Number.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2512_budget.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2675_Repeating_Characters.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2676_The_Rascal_Triangle.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2679_Route_Redundancy.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2679_The_Next_Permutation.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2681_Rancher%27s_Gift.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2684_Penney_Game.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2685_NimBSum.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2688_Non_Decreasing_Digits.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2693_Nth_Largest_Value.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2694_Equal_Sum_Partitions.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2696_Running_Median.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2698_Adjacent_Bit_Counts.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2699_Convex_Hull_of_Lattice_Points.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2700_Interior_Points_of_Lattice_Polygons.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2702_Sixth_Grade_Math.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2703_Cryptoquote.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2792_LJUBOMORA.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2805_EKO.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2869_PUZ.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2918_POSLOZI.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\3020_FIREFLY.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\3079_AERODROM.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\10815_number_card.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\10816_number_card_2.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\14216_find_number.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Codility\1_BinaryGap.cpp">
+      <Filter>Source Files\Online Judge\Codility</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\etc\GetMaxFrequency.cpp">
+      <Filter>Source Files\Online Judge\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\etc\kakao1.cpp">
+      <Filter>Source Files\Online Judge\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\etc\LinearCongruentialGenerator.cpp">
+      <Filter>Source Files\Online Judge\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\UVa\EcologicalBinPacking_102.cpp">
+      <Filter>Source Files\Online Judge\UVa</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\UVa\EenyMeeny_180.cpp">
+      <Filter>Source Files\Online Judge\UVa</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\UVa\PowerCrisis_151.cpp">
+      <Filter>Source Files\Online Judge\UVa</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\UVa\Sample.cpp">
+      <Filter>Source Files\Online Judge\UVa</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\UVa\TrainSwapping_299.cpp">
+      <Filter>Source Files\Online Judge\UVa</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_1_BrokenNecklace.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_1_FridayTheThirteenth.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_1_GreedyGiftGivers.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_1_YourRideIsHere.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_2_DualPalindromescpp.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_2_MilkingCows.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_2_PalindromicSquares.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_2_Transformations.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_3_BarnRepair.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_3_Combination_Lock.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_3_MixingMilk.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_3_PrimeCryptarithm.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_3_Ski_Course_Design.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_3_Wormholes.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_4_Arithmetic_Progressions.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_4_Mothers_Milk.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_5_Prime_Palindromes.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\1_5_Superprime_Rib.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\2_1_Hamming_Codes.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\2_1_Healthy_Holsteins.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\2_1_Ordered_Fractions.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\2_1_Sorting_ThreeValued_Sequence.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\2_1_The_Castle.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\2_1_The_Castle_2.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\2_2_Party_Lamps.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\2_2_Preface_Numbering.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\2_2_Runaround_Numbers.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\USACO\2_2_Subset_Sums.cpp">
+      <Filter>Source Files\Online Judge\USACO</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\2_Even_Fibonacci_numbers.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\3_Largest_Prime_factor.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\4_Largest_Palindrome_product.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\5_Smallest_multiple.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\6_Sum_Square_difference.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\7_10001st_Prime.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\8_Largest_product_in_a_series.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\9_Special_Pythagorean_triplet.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\10_Summation_of_primes.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\11_Largest_product_in_a_grid.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\12_Highly_divisible_triangular_number.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\13_Large_sum.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\14_Longest_Collatz_sequence.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\15_Lattice paths.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\16_Power_digit_sum.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\18_Maximum_path_sum_I.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\19_Counting_Sundays.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\20_Factorial_digit_sum.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\21_Amicable_numbers.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\22_Names_scores.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\23_Non_abundant_sums.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\ProjectEuler\26_Reciprocal_cycles_26.cpp">
+      <Filter>Source Files\Online Judge\ProjectEuler</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
