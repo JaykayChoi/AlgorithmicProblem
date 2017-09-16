@@ -819,5 +819,8 @@
     <ClCompile Include="Online Judge\ProjectEuler\26_Reciprocal_cycles_26.cpp">
       <Filter>Source Files\Online Judge\ProjectEuler</Filter>
     </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\2343_guitar_lesson.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -8,7 +8,6 @@
 using namespace std;
 typedef long long ll;
 
-//https://www.acmicpc.net/problem/6236
 //https://www.acmicpc.net/problem/2343
 
 ll getNeedNum(const int* numbers, ll length, int n)
@@ -26,7 +25,7 @@ ll getNeedNum(const int* numbers, ll length, int n)
 			accumulated = 0;
 			ret++;
 		}
-		else 
+		else
 		{
 			accumulated = numbers[i];
 			ret++;

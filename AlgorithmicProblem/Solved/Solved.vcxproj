@@ -298,6 +298,7 @@
     <ClCompile Include="Online Judge\Baekjoon\1920_find_number.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\2110_install_router.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\2193_Pinary_Number.cpp" />
+    <ClCompile Include="Online Judge\Baekjoon\2343_guitar_lesson.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\2512_budget.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\2675_Repeating_Characters.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\2676_The_Rascal_Triangle.cpp" />
