@@ -292,10 +292,13 @@
     <ClCompile Include="Online Judge\Baekjoon\1072_game.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\10815_number_card.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\10816_number_card_2.cpp" />
+    <ClCompile Include="Online Judge\Baekjoon\1149_RGB_street.cpp" />
+    <ClCompile Include="Online Judge\Baekjoon\1158_josephus.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\14216_find_number.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\1629_multiply.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\1654_cut_lan.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\1920_find_number.cpp" />
+    <ClCompile Include="Online Judge\Baekjoon\1994_quad_tree.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\2110_install_router.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\2193_Pinary_Number.cpp" />
     <ClCompile Include="Online Judge\Baekjoon\2343_guitar_lesson.cpp" />

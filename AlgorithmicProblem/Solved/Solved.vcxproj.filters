@@ -822,5 +822,14 @@
     <ClCompile Include="Online Judge\Baekjoon\2343_guitar_lesson.cpp">
       <Filter>Source Files\Online Judge\Baekjoon</Filter>
     </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1149_RGB_street.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1158_josephus.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Online Judge\Baekjoon\1994_quad_tree.cpp">
+      <Filter>Source Files\Online Judge\Baekjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
