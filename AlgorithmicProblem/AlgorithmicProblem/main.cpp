@@ -8,73 +8,39 @@
 using namespace std;
 typedef long long ll;
 
-//https://www.acmicpc.net/problem/6236
-//https://www.acmicpc.net/problem/2343
+//https://www.acmicpc.net/problem/1932
 
-ll getNeedNum(const int* numbers, ll length, int n)
+const int MAX = 1000;
+int numbers[MAX][MAX];
+int cache[2][MAX];
+int n;
+ 
+int dp()
 {
-	ll ret = 0;
-	ll accumulated = 0;
-	for (int i = 0; i < n; i++)
-	{
-		if (accumulated + numbers[i] < length)
-		{
-			accumulated += numbers[i];
-		}
-		else if (accumulated + numbers[i] == length)
-		{
-			accumulated = 0;
-			ret++;
-		}
-		else 
-		{
-			accumulated = numbers[i];
-			ret++;
-		}
-	}
-	if (accumulated > 0)
-	{
-		ret++;
-	}
-	return ret;
+    for (int x = 0; x < n; x++)
+        cache[(n - 1) % 2][x] = numbers[n - 1][x];
+ 
+    for (int y = n - 2; y >= 0; y--)
+    {
+        for (int x = 0; x < y + 1; x++)
+            cache[y % 2][x] = max(cache[(y + 1) % 2][x], cache[(y + 1) % 2][x + 1]) + numbers[y][x];
+    }
+ 
+    return cache[0][0];
 }
-int binarySearch(const int* numbers, int low, ll high, int n, int m)
-{
-	while (low <= high)
-	{
-		ll mid = (low + high) / 2;
-		ll needNum = getNeedNum(numbers, mid, n);
-		if (needNum > m)
-		{
-			low = mid + 1;
-		}
-		else
-		{
-			high = mid - 1;
-		}
-	}
-	return low;
-}
+
 
 int main()
 {
-	int n, m;
-
+	int n;
 	scanf("%d", &n);
-	scanf("%d", &m);
-
-	int* minutes = new int[n];
-	int maxLength = 0;
-	ll sum = 0;
 	for (int i = 0; i < n; i++)
-	{
-		scanf("%d", &minutes[i]);
-		sum += minutes[i];
-		maxLength = max(maxLength, minutes[i]);
-	}
+    {
+        for (int j = 0; j < i + 1; j++)
+		{
+			scanf("%d", &numbers[i][j]);
+		}
+    }
 
-	printf("%d\n", binarySearch(minutes, maxLength, sum, n, m));
-
-	delete[] minutes;
 	return 0;
 }
